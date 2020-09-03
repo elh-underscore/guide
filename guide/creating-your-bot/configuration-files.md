@@ -20,7 +20,7 @@ Go to your code editor and make a new file. Add in the code below and save it as
 ```json
 {
 	"prefix": "!",
-	"token": "your-token-goes-here"
+	"token": "put-your-token-here"
 }
 ```
 
